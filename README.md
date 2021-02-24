@@ -1,2 +1,4 @@
-# dark-portfolio
-My portfolio App
+## Available Scripts
+
+In the project directory, you can run.
+
