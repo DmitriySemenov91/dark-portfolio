@@ -1,9 +1,10 @@
 import port1 from '../assets/img/portImages/maya-1.jpg';
 import port2 from '../assets/img/portImages/port1.jpg';
-import port3 from '../assets/img/portImages/port2.jpg';
+//import port3 from '../assets/img/portImages/port2.jpg';
 import port4 from '../assets/img/portImages/port3.jpg';
 import port6 from '../assets/img/portImages/port5.jpg';
 import port7 from '../assets/img/portImages/port6.jpg';
+import port8 from '../assets/img/portImages/port8.jpg';
 
 const portfolios = [
     {
@@ -28,17 +29,17 @@ const portfolios = [
         title: 'Cinema City',
         desc: 'Movie search App'
     },
-    {
-        id: 3,
-        category: 'Javascript11',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
-        image: port3,
-        title: 'Autodesk May111a',
-        desc: 'Pizzas Delivery App11'
-    },
+    // {
+    //     id: 3,
+    //     category: 'Javascript',
+    //     link1: 'www.youtube.com',
+    //     link2: 'www.github.com',
+    //     icon1: 'G',
+    //     icon2: 'Y',
+    //     image: port3,
+    //     title: 'Autodesk May111a',
+    //     desc: 'Pizzas Delivery App11'
+    // },
     {
         id: 4,
         category: 'Javascript',
@@ -64,24 +65,24 @@ const portfolios = [
     {
         id: 6,
         category: 'Javascript',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        link1: 'https://dmitriysemenov91.github.io/mavic/',
+        link2: 'https://github.com/DmitriySemenov91/mavic',
         icon1: 'G',
         icon2: 'Y',
         image: port7,
-        title: 'Vanilla Javascript Website2222',
-        desc: 'Pizzas Delivery App2222'
+        title: 'Mavic website',
+        desc: 'Landing with cool UI'
     },
     {
         id: 7,
         category: 'Javascript',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        link1: 'https://dmitriysemenov91.github.io/vikings/',
+        link2: 'https://github.com/DmitriySemenov91/vikings',
         icon1: 'G',
         icon2: 'Y',
-        image: port4,
-        title: 'Vanilla Javascript Website3333',
-        desc: 'Pizzas Delivery App333'
+        image: port8,
+        title: 'Vikings',
+        desc: 'Vikings fan page landing'
     }
 ]
 

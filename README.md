@@ -1,4 +1,4 @@
-## Available Scripts
+## My portfolio App
 
-In the project directory, you can run.
+In progress
 

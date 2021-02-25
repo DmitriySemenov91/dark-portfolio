@@ -7,6 +7,7 @@ import portfolios from '../components/allportfolios';
 const allCategories = ['All', ...new Set(portfolios.map(item => item.category))];
 
 function PortfoliosPage() {
+    // eslint-disable-next-line no-unused-vars
     const [categories, setCategories] = useState(allCategories);
     const [menuItems, setMenuItems] = useState(portfolios);
 
