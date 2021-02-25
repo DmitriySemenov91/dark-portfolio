@@ -48,7 +48,7 @@ const portfolios = [
         icon1: 'G',
         icon2: 'Y',
         image: port4,
-        title: 'Vanilla Javascript Website',
+        title: 'Witcher',
         desc: 'Fan page serial Witcher.'
     },
     {
@@ -59,7 +59,7 @@ const portfolios = [
         icon1: 'G',
         icon2: 'Y',
         image: port6,
-        title: 'Vanilla Javascript Website',
+        title: 'Batman',
         desc: 'Fan page movie Batman 2021.'
     },
     {
